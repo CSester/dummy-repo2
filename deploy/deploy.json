@@ -1,0 +1,4 @@
+{
+  "dependencies": [],
+  "main_script": "deploy/deploy.py"
+}
