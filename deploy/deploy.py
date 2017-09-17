@@ -1,4 +1,4 @@
-from fabric.api import run, env
+from fabric.api import run, env, sudo
 
 def runDeploy():
   print(env)
